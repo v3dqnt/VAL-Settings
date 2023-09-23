@@ -1,1 +1,3 @@
-# VALORANT Game User Settings For Max FPS
+# Best Valorant Settings
+
+> Sensitivity
