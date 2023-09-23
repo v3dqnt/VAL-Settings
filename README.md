@@ -39,4 +39,4 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
   - And Do The Same For `Win-64-Shipping.exe`
 ### Advanced
 1. Make A System Restore Point
-2. Download This [Batch File](https://discord.com/channels/1141288490479403038/1155132704543739905/1155133492561203241) And Run It As Administrator
+2. Download This [Batch File](https://discord.com/channels/1141288490479403038/1155132704543739905/1155135666884198480) And Run It As Administrator
