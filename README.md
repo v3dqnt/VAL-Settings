@@ -85,3 +85,10 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 | 8GB         | 4096        |
 | 16GB        | 8192        |
 | 32GB        | 16384       |
+  - Set "Free memory is lower than":
+| RAM         | Value       |
+| ----------- | ----------- |
+| 4GB         | 512         |
+| 8GB         | 1024        |
+| 16GB        | 2048        |
+| 32GB        | 4096        |
