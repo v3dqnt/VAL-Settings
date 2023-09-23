@@ -12,7 +12,7 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 4. Now Try The Higher & Lower Sensitivities On The Right And Tell Which One Feels Better On The Left.
 5. Do This And Get Your Perfect Sensitivity
 
-## In Game Settins For FPS Boost
+## In Game Settings For FPS Boost
 1. Keep All The Graphics Settings Low
 2. Set Anisotropic Filtering To 2X OR 4X
 3. Set Bloom To On
