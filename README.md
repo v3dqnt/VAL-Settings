@@ -69,7 +69,9 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Name It "Dedicated Segment Size"
    - And Now If You Have.
 
-| Syntax      | Description |
+| RAM         | Value       |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| 4GB         | 512         |
+| 8GB         | 1024        |
+| 16GB        | 2048        |
+| 32GB        | 4096        |
