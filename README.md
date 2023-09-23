@@ -46,4 +46,4 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Open It
    - Find Where It Is Written `_GLOBAL_DRIVER_PROFILE (Base Profile)`
    - Click On It, Delete It And Search Valorant
-   - In The Searches Click On Valorant And Apply Changes
+   - In The Searches Click On Valorant And Then On The Right Click On Apply Changes
