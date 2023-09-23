@@ -22,4 +22,7 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 - Extra Tips
 1. Set Your Resolution The Same As Your Monitor's Default Resolution
 2. Limit FPS Always Can Be Kept Off But For More Stable FPS Cap It 2-3 FPS Below Ur Monitors Refresh Rate
-(I Personally Turn It Off.)
+(I Personally Turn It Off)
+
+## Windows Settings For Best Performance
+1. Download [Download](https://bitsum.com) And Copy What Is Done In This [Video](https://www.youtube.com/watch?v=r2A0YbMjOY8)
