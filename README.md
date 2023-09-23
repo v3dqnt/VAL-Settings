@@ -38,7 +38,7 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Now, Go To This Path `C:\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64`
    - And Do The Same For `Win-64-Shipping.exe`
 ### Advanced
-**IMPORTANT!**(Create A Restore Point)
+**IMPORTANT!** (Create A Restore Point)
 1. Download This [CLEANER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155138921148194919) And Run It As Administrator
 2. Download [NVIDIA Profile Inspector](https://discord.com/channels/1141288490479403038/1155132704543739905/1155140636824047676) And Open It
    - Find Where It Is Written `_GLOBAL_DRIVER_PROFILE (Base Profile)`
