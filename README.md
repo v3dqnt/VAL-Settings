@@ -11,3 +11,15 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 3. Type In Your Starting Sensitivity
 4. Now Try The Higher & Lower Sensitivities On The Right And Tell Which One Feels Better On The Left.
 5. Do This And Get Your Perfect Sensitivity
+
+## In Game Settins For FPS Boost
+1. Keep All The Graphics Settings Low
+2. Set Anisotropic Filtering To 2X OR 4X
+3. Set Bloom To On
+4. Set Nvidia Reflex Low Latency To - On + Boost
+5. Turn On Multithreaded Rendering
+
+- Extra Tips
+1. Set Your Resolution The Same As Your Monitor's Default Resolution
+2. Limit FPS Always Can Be Kept Off But For More Stable FPS Cap It 2-3 FPS Below Ur Monitors Refresh Rate
+(I Personally Turn It Off.)
