@@ -59,10 +59,18 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - If It Reduces Your FPS Then
    - Download [18HEX REVERT](https://discord.com/channels/1141288490479403038/1155132704543739905/1155156332110958683) And Run This
 6. Allocate Virtual Memory (Page File):
-   - Windows uses a portion of your storage drive as virtual memory (page file) to supplement RAM. Ensure it's set correctly:
-   - Right-click on "This PC" or "My Computer" and select "Properties."
-   - Click on "Advanced system settings."
-   - Under the "Performance" section, click "Settings."
-   - In the Performance Options window, go to the "Advanced" tab.
-   - Under Virtual Memory, click "Change."
-   - Set a custom size (usually 1.5 times your physical RAM).
+   - First Check The Installed RAM On Your Computer By Going Into Settings -> System -> About
+   - Click Windows + R
+   - Type In "Regedit"
+   - Hit Enter
+   - Now On The Left Side Go To HKEY_LOCAL_MACHINE\SOFTWARE\Intel\GMM\
+   - If You Dont Have A DWORD There
+   - Right Click Create New DWORD (32-Bit Value)
+   - Name It "Dedicated Segment Size"
+   - And Now If You Have
+| Installed RAM      | Type This Value |
+| ----------- | ----------- |
+| 4GB      |    512       |
+| 8GB   | 2048        |
+| 16GB   | 2096        |
+| 32GB   | 4192        |
