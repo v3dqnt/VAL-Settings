@@ -25,15 +25,15 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 
 ## Windows Settings For Best Performance
 1. Download [Process Lasso](https://bitsum.com) And Copy What Is Done In This [Video](https://www.youtube.com/watch?v=r2A0YbMjOY8)
-2. Go To This Path C:\Users\***Your Username***\AppData\Local\VALORANT\Saved\Config\Windows
-  - Open RiotLocalMachine.ini
+2. Go To This Path `C:\Users\***Your Username***\AppData\Local\VALORANT\Saved\Config\Windows`
+  - Open `RiotLocalMachine.ini`
   - See A Random String Of Digits? Copy Them
   - `C:\Users\***Your Username***\AppData\Local\VALORANT\Saved\Config\***Paste Them Here***\Windows` Go To This Path Now
-  - Open It And Open GameUserSettings.ini
+  - Open It And Open `GameUserSettings.ini`
   - In It Scroll Down And Find Scalability Groups
   - Now Set Everything To 0 And In Resolution Quality Instead Of 100.00000... (just Change The 100 TO 80 Dont Touch The Zeros!)
   - Save This
 3. Go To This Path `C:\Riot Games\VALORANT\live`
-  - Right Click On Valorant.exe The Go to Compatibility And Check The Disable Fullscreen Optimizations Box
+  - Right Click On `Valorant.exe` The Go to Compatibility And Check The Disable Fullscreen Optimizations Box
   - Now, Go To This Path `C:\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64`
-  - And Do The Same For Win-64-Shipping.exe
+  - And Do The Same For `Win-64-Shipping.exe`
