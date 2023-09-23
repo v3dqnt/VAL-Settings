@@ -79,6 +79,7 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Download [Intelligent standby list cleaner](https://www.wagnardsoft.com/content/Intelligent-standby-list-cleaner-ISLC-v1029-Released)
    - Run ISLC as Administrator
    - Set "The list size is at least":
+     
 | RAM         | Value       |
 | ----------- | ----------- |
 | 8GB         | 4096        |
