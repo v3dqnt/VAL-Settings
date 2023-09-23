@@ -57,4 +57,4 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 7. Win32PrioritySeparation
    - Download [18HEX](https://discord.com/channels/1141288490479403038/1155132704543739905/1155155212210810941) And Run It
    - If It Reduces Your FPS Then
-   - Download [18HEX REVERT](https://discord.com/channels/1141288490479403038/1155132704543739905/1155156332110958683) And Run Thid
+   - Download [18HEX REVERT](https://discord.com/channels/1141288490479403038/1155132704543739905/1155156332110958683) And Run This
