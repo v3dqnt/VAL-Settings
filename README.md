@@ -9,4 +9,5 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 
 2. Now Go to [Sensitivity Calculator](https://jscalc.io/embed/vqOrqXRpMgmwb8tV)
 3. Type In Your Starting Sensitivity
-4. 
+4. Now Try The Higher & Lower Sensitivities On The Right And Tell Which One Feels Better On The Left.
+5. Do This And Get Your Perfect Sensitivity
