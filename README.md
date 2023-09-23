@@ -85,7 +85,7 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 | 8GB         | 4096        |
 | 16GB        | 8192        |
 | 32GB        | 16384       |
-   - Set "Free memory is lower than":
+    - Set "Free memory is lower than":
     
 | RAM         | Value       |
 | ----------- | ----------- |
@@ -93,3 +93,6 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 | 8GB         | 1024        |
 | 16GB        | 2048        |
 | 32GB        | 4096        |
+    - Enable Custom Timer Resolution
+    - Set Wanted Timer Resolution To "0.50"
+    - Adjust ISLC Polling Rate To 500ms
