@@ -86,6 +86,7 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 | 16GB        | 8192        |
 | 32GB        | 16384       |
   - Set "Free memory is lower than":
+    
 | RAM         | Value       |
 | ----------- | ----------- |
 | 4GB         | 512         |
