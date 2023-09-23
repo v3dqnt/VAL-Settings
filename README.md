@@ -38,19 +38,16 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Now, Go To This Path `C:\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64`
    - And Do The Same For `Win-64-Shipping.exe`
 ### Advanced
-1. Download This [RESTORE POINT](https://discord.com/channels/1141288490479403038/1155132704543739905/1155146071908036608) And Run It As Administrator
-2. Download This [CLEANER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155138921148194919) And Run It As Administrator
-3. Download This [PERFORMANCE BOOSTER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155137752199856149) And Run It As Administrator
-4. Download This [TELEMETRY DISABLER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155139599283261514) And Run It As Administrator
-5. Download [NVIDIA Profile Inspector](https://discord.com/channels/1141288490479403038/1155132704543739905/1155140636824047676) And Open It
+1. Download This [CLEANER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155138921148194919) And Run It As Administrator
+2. Download [NVIDIA Profile Inspector](https://discord.com/channels/1141288490479403038/1155132704543739905/1155140636824047676) And Open It
    - Find Where It Is Written `_GLOBAL_DRIVER_PROFILE (Base Profile)`
    - Click On It, Delete It And Search Valorant
    - In The Searches Click On Valorant And Then On The Right Click On Apply Changes
-6. Download [MSI Utility V3](https://discord.com/channels/1141288490479403038/1155132704543739905/1155146800970354790) And  Run as administator
+3. Download [MSI Utility V3](https://discord.com/channels/1141288490479403038/1155132704543739905/1155146800970354790) And  Run as administator
    - Find your GPU and turn on MSI mode if supported
    - Set interrupt prioity to high
    - And Click On Apply On The Top Right
-7. CTT Tool
+4. CTT Tool
    - Now Run Powershell As Admin
    - Paste This `iwr -useb https://christitus.com/win | iex` And Enter
    - Go To The Tweaks Tab From The Navbar Up Top
