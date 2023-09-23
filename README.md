@@ -76,16 +76,16 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 | 16GB        | 2048        |
 | 32GB        | 4096        |
  7. ISLC (Intelligent standby list cleaner)
-   - Download [Intelligent standby list cleaner](https://www.wagnardsoft.com/content/Intelligent-standby-list-cleaner-ISLC-v1029-Released)
-   - Run ISLC as Administrator
-   - Set "The list size is at least":
+    - Download [Intelligent standby list cleaner](https://www.wagnardsoft.com/content/Intelligent-standby-list-cleaner-ISLC-v1029-Released)
+    - Run ISLC as Administrator
+    - Set "The list size is at least":
      
 | RAM         | Value       |
 | ----------- | ----------- |
 | 8GB         | 4096        |
 | 16GB        | 8192        |
 | 32GB        | 16384       |
-  - Set "Free memory is lower than":
+   - Set "Free memory is lower than":
     
 | RAM         | Value       |
 | ----------- | ----------- |
