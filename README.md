@@ -42,3 +42,8 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 2. Download This [CLEANER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155138921148194919) And Run It As Administrator
 3. Download This [PERFORMANCE BOOSTER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155137752199856149) And Run It As Administrator
 4. Download This [TELEMETRY DISABLER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155139599283261514) And Run It As Administrator
+5. Download [NVIDIA Profile Inspector](https://discord.com/channels/1141288490479403038/1155132704543739905/1155140636824047676)
+   - Open It
+   - Find Where It Is Written `_GLOBAL_DRIVER_PROFILE (Base Profile)`
+   - Click On It, Delete It And Search Valorant
+   - In The Searches Click On Valorant And Apply Changes
