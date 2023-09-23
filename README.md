@@ -68,9 +68,8 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Right Click Create New DWORD (32-Bit Value)
    - Name It "Dedicated Segment Size"
    - And Now If You Have.
-         | Installed RAM  | Type This Value |
-         | ----------- | ----------- |
-         | 4GB      | 512         |
-         | 8GB      | 2048        |
-         | 16GB     | 2096        |
-         | 32GB     | 4192        |
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
