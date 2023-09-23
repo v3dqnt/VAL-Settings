@@ -41,3 +41,4 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 1. Make A System Restore Point
 2. Download This [OPTIMIZER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155135666884198480) And Run It As Administrator
 3. Download This [CLEANER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155136508890726431) And Run It As Administrator
+4. Download This [PERFORMANCE BOOSTER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155137752199856149) And Run It As Administrator
