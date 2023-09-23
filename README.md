@@ -25,4 +25,4 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 (I Personally Turn It Off)
 
 ## Windows Settings For Best Performance
-1. Download [Download](https://bitsum.com) And Copy What Is Done In This [Video](https://www.youtube.com/watch?v=r2A0YbMjOY8)
+1. Download [Process Lasso](https://bitsum.com) And Copy What Is Done In This [Video](https://www.youtube.com/watch?v=r2A0YbMjOY8)
