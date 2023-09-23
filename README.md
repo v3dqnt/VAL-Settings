@@ -54,7 +54,7 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Go To The Tweaks Tab From The Navbar Up Top
    - Click On Desktop
    - And The Run Selected Tweaks On The Bottom Right
-7. Win32PrioritySeparation
+5. Win32PrioritySeparation
    - Download [18HEX](https://discord.com/channels/1141288490479403038/1155132704543739905/1155155212210810941) And Run It
    - If It Reduces Your FPS Then
    - Download [18HEX REVERT](https://discord.com/channels/1141288490479403038/1155132704543739905/1155156332110958683) And Run This
@@ -75,3 +75,12 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
 | 8GB         | 1024        |
 | 16GB        | 2048        |
 | 32GB        | 4096        |
+ 7. ISLC (Intelligent standby list cleaner)
+   - Download [Intelligent standby list cleaner](https://www.wagnardsoft.com/content/Intelligent-standby-list-cleaner-ISLC-v1029-Released)
+   - Run ISLC as Administrator
+   - Set "The list size is at least":
+| RAM         | Value       |
+| ----------- | ----------- |
+| 8GB         | 4096        |
+| 16GB        | 8192        |
+| 32GB        | 16384       |
