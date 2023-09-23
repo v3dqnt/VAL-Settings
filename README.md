@@ -37,3 +37,6 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
   - Right Click On `Valorant.exe` The Go to Compatibility And Check The Disable Fullscreen Optimizations Box
   - Now, Go To This Path `C:\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64`
   - And Do The Same For `Win-64-Shipping.exe`
+### Advanced
+1. Make A System Restore Point
+2. Download This [Batch File](https://discord.com/channels/1141288490479403038/1155132704543739905/1155133492561203241) And Run It As Administrator
