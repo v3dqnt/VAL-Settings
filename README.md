@@ -50,3 +50,9 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Find your GPU and turn on MSI mode if supported
    - Set interrupt prioity to high
    - And Click On Apply On The Top Right
+7. CTT Tool
+   - Now Run Powershell As Admin
+   - Paste This `iwr -useb https://christitus.com/win | iex` And Enter
+   - Go To The Tweaks Tab From The Navbar Up Top
+   - Click On Desktop
+   - And The Run Selected Tweaks On The Bottom Right
