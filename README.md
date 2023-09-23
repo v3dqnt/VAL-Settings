@@ -38,7 +38,7 @@ This Will Give You A Base Sensitivity For Finding Your Perfect Sens
    - Now, Go To This Path `C:\Riot Games\VALORANT\live\ShooterGame\Binaries\Win64`
    - And Do The Same For `Win-64-Shipping.exe`
 ### Advanced
-1. Download This [Restore Point](https://discord.com/channels/1141288490479403038/1155132704543739905/1155146071908036608) And Run It As Administrator
+1. Download This [RESTORE POINT](https://discord.com/channels/1141288490479403038/1155132704543739905/1155146071908036608) And Run It As Administrator
 2. Download This [CLEANER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155138921148194919) And Run It As Administrator
 3. Download This [PERFORMANCE BOOSTER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155137752199856149) And Run It As Administrator
 4. Download This [TELEMETRY DISABLER](https://discord.com/channels/1141288490479403038/1155132704543739905/1155139599283261514) And Run It As Administrator
